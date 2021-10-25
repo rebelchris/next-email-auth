@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next-auth/prisma-adapter": "^0.5.2-next.15",
+    "@next-auth/prisma-adapter": "^0.5.2-next.19",
     "@prisma/client": "^3.2.1",
     "next": "11.1.2",
     "next-auth": "^4.0.0-beta.4",
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2"
+    "eslint-config-next": "11.1.2",
+    "prisma": "^3.3.0"
   }
 }
