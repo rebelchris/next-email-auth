@@ -11,7 +11,7 @@
   "dependencies": {
     "@next-auth/prisma-adapter": "^0.5.2-next.19",
     "@prisma/client": "^3.2.1",
-    "next": "11.1.2",
+    "next": "13.0.4",
     "next-auth": "^4.0.0-beta.4",
     "nodemailer": "^6.7.0",
     "react": "17.0.2",
